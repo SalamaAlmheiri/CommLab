@@ -1,6 +1,6 @@
 # Film Wireframe
 
-Film:" Our Experience at EXPO 2020" by Salama and Keji
+**Film:** "Our Experience at EXPO 2020" by Salama and Keji
 
 ## Initial Design:
 <img src="https://github.com/SalamaAlmheiri/CommLab/blob/main/Wireframe/initialDesign.png" width=470 align=center>
